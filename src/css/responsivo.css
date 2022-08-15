@@ -13,8 +13,15 @@
         align-items: center;
     }
 
+    ul img {
+        width: 280px;
+        height: 300px;
+    }
+    
     .lista-cartas {
+        width: 290px;
         height: 480px;
+        position: relative;
     }
 
     .cartao .imagem-tarot {
