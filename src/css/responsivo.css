@@ -13,9 +13,13 @@
         align-items: center;
     }
 
+    .cabecalho .titulo {
+        font-size: 20px;
+    }
+
     ul img {
-        width: 280px;
-        height: 300px;
+        width: 290px;
+        height: 320px;
     }
     
     .lista-cartas {
