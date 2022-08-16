@@ -32,4 +32,8 @@
         max-height: 230px;
         
     }
+
+    .btn-seta:hover {
+        background-color: rgb(223, 173, 10);
+    }
 }
