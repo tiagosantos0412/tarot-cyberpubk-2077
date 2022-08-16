@@ -1,7 +1,7 @@
 @media (max-width: 620px) {
     .tarot-slider {
         padding: 0 15px;
-        gap: 10px;
+        gap: 5px;
     }
 
     .btn-seta {
@@ -18,22 +18,24 @@
     }
 
     ul img {
-        width: 290px;
+        width: 250px;
         height: 320px;
     }
     
     .lista-cartas {
-        width: 290px;
-        height: 480px;
+        width: 320px;
+        height: 530px;
         position: relative;
-    }
-
-    .cartao .imagem-tarot {
-        max-height: 230px;
-        
     }
 
     .btn-seta:hover {
         background-color: rgb(223, 173, 10);
+    }
+
+    .tarot-slider {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0px;
     }
 }
