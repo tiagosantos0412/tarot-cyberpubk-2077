@@ -18,10 +18,14 @@
     }
 
     .cartao .titulo-cartao {
-        font-size: 15px;
+        font-size: 10px;
     }
 
     .cartao .imagem-tarot {
         max-height: 230px;
+    }
+
+    .cabecalho .titulo {
+        font-size: 20px;
     }
 }
