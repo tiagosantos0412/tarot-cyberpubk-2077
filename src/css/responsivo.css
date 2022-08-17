@@ -1,41 +1,27 @@
 @media (max-width: 620px) {
     .tarot-slider {
         padding: 0 15px;
-        gap: 5px;
+        gap: 10px;
     }
 
     .btn-seta {
-        width: 10px;
-        height: 50px;
-        padding: 18px;
+        width: 20px;
+        height: 20px;
+        padding: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
     }
 
-    .cabecalho .titulo {
-        font-size: 20px;
-    }
-
-    ul img {
-        width: 250px;
-        height: 320px;
-    }
-    
     .lista-cartas {
-        width: 320px;
-        height: 530px;
-        position: relative;
+        height: 480px;
     }
 
-    .btn-seta:hover {
-        background-color: rgb(223, 173, 10);
+    .cartao .titulo-cartao {
+        font-size: 15px;
     }
 
-    .tarot-slider {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 0px;
+    .cartao .imagem-tarot {
+        max-height: 230px;
     }
 }
